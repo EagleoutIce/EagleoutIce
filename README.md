@@ -17,8 +17,10 @@ LaTeX is amazing.
 <details>
   <summary>Public Documents</summary>
 
-&ensp;[![PnP-Skywrath](https://github-readme-stats.vercel.app/api/pin/?username=EagleoutIce&repo=pnp-skywrath-rules&title_color=c9d1d9&icon_color=866b37&text_color=9f9f9f&bg_color=0d1117)](https://github.com/EagleoutIce/pnp-skywrath-rules)
-[![LaTeX-Einführung](https://github-readme-stats.vercel.app/api/pin/?username=EagleoutIce&repo=script-latex-basics&title_color=c9d1d9&icon_color=866b37&text_color=9f9f9f&bg_color=0d1117)](https://github.com/EagleoutIce/script-latex-basics)
+&ensp;[![LaTeX-Einführung](https://github-readme-stats.vercel.app/api/pin/?username=EagleoutIce&repo=script-latex-basics&title_color=c9d1d9&icon_color=866b37&text_color=9f9f9f&bg_color=0d1117)](https://github.com/EagleoutIce/script-latex-basics)
 
 &ensp;[![Uni-Seminar](https://github-readme-stats.vercel.app/api/pin/?username=EagleoutIce&repo=eidi-weihnachttsblatt-19_20&title_color=c9d1d9&icon_color=866b37&text_color=9f9f9f&bg_color=0d1117)](https://github.com/EagleoutIce/eidi-weihnachttsblatt-19_20)
+
+* the work-in-progress [skywrath-ruleset](https://github.com/EagleoutIce/pnp-skywrath-rules) (de):\
+[<img src="https://github.com/EagleoutIce/pnp-skywrath-rules/blob/gh-pages/preview-01.png?raw=true" width="227" height="320" />](https://media.githubusercontent.com/media/EagleoutIce/pnp-skywrath-rules/gh-pages/skywrath-regelwerk.pdf)
 </details>
