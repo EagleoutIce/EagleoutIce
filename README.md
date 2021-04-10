@@ -12,8 +12,6 @@ LaTeX is amazing.
 * slides on my [eidi rep](https://github.com/EagleoutIce/eidi-pseudo-rep20) (de):\
 [<img src="https://github.com/EagleoutIce/eidi-pseudo-rep20/blob/gh-pages/preview-001.png?raw=true" width="320" height="180" />](https://media.githubusercontent.com/media/EagleoutIce/eidi-pseudo-rep20/gh-pages/slides-eidi-rep.pdf)
 </details>
-
-
 <details>
   <summary>Public Documents</summary>
 
@@ -23,7 +21,6 @@ LaTeX is amazing.
   * the work-in-progress [skywrath rulebook](https://github.com/EagleoutIce/pnp-skywrath-rules) (de):\
   [<img src="https://github.com/EagleoutIce/pnp-skywrath-rules/blob/gh-pages/preview-01.png?raw=true" width="227" height="320" />](https://media.githubusercontent.com/media/EagleoutIce/pnp-skywrath-rules/gh-pages/skywrath-regelwerk.pdf)
   </details>
-
 * <details>
   <summary>University</summary>
 
@@ -33,7 +30,5 @@ LaTeX is amazing.
   &ensp;[![LaTeX-Einführung](https://github-readme-stats.vercel.app/api/pin/?username=EagleoutIce&repo=script-latex-basics&title_color=c9d1d9&icon_color=866b37&text_color=9f9f9f&bg_color=0d1117)](https://github.com/EagleoutIce/script-latex-basics)
 
   &ensp;[![Uni-Seminar](https://github-readme-stats.vercel.app/api/pin/?username=EagleoutIce&repo=eidi-weihnachttsblatt-19_20&title_color=c9d1d9&icon_color=866b37&text_color=9f9f9f&bg_color=0d1117)](https://github.com/EagleoutIce/eidi-weihnachttsblatt-19_20)
-
 </details>
-
 </details>
