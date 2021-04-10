@@ -7,10 +7,10 @@ LaTeX is amazing.
 
 * slides on my seminar presentation [trusting trust](https://github.com/EagleoutIce/slides-rtds-trusting-trust) (en):\
 [<img src="https://github.com/EagleoutIce/slides-rtds-trusting-trust/blob/gh-pages/preview-1.png?raw=true" width="320" height="180" />](https://media.githubusercontent.com/media/EagleoutIce/slides-rtds-trusting-trust/gh-pages/noanim-noannot-atvs-presentation.pdf)
-* slides on my [latex-introduction](https://github.com/EagleoutIce/slides-latex-basics) (de):\
+* slides on my [latex introduction](https://github.com/EagleoutIce/slides-latex-basics) (de):\
 [<img src="https://github.com/EagleoutIce/slides-latex-basics/blob/gh-pages/preview-01.png?raw=true" width="320" height="180" />](https://media.githubusercontent.com/media/EagleoutIce/slides-latex-basics/gh-pages/latex_folien.pdf) [<img src="https://github.com/EagleoutIce/slides-latex-basics/blob/gh-pages/preview_2-01.png?raw=true" width="320" height="180" />](https://media.githubusercontent.com/media/EagleoutIce/slides-latex-basics/gh-pages/latex_2_folien.pdf)
-
-* [![EidI-Rep](https://github-readme-stats.vercel.app/api/pin/?username=EagleoutIce&repo=eidi-pseudo-rep20&title_color=c9d1d9&icon_color=866b37&text_color=9f9f9f&bg_color=0d1117)](https://github.com/EagleoutIce/eidi-pseudo-rep20)
+* slides on my [eidi rep](https://github.com/EagleoutIce/eidi-pseudo-rep20) (de):\
+[<img src="https://github.com/EagleoutIce/eidi-pseudo-rep20/blob/gh-pages/preview-001.png?raw=true" width="320" height="180" />](https://media.githubusercontent.com/media/EagleoutIce/eidi-pseudo-rep20/gh-pages/slides-eidi-rep.pdf)
 </details>
 
 
