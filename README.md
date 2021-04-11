@@ -18,16 +18,16 @@ LaTeX is amazing.
 * <details>
   <summary>Pen and Paper</summary>
 
-  * the work-in-progress [skywrath rulebook](https://github.com/EagleoutIce/pnp-skywrath-rules) (de):\
-  [<img src="https://github.com/EagleoutIce/pnp-skywrath-rules/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/pnp-skywrath-rules/gh-pages/skywrath-regelwerk.pdf)
+  [skywrath rulebook](https://github.com/EagleoutIce/pnp-skywrath-rules) (wip, de) | |
+  :--------: | :--------: |
+  [<img src="https://github.com/EagleoutIce/pnp-skywrath-rules/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/pnp-skywrath-rules/gh-pages/skywrath-regelwerk.pdf) | |
   </details>
 * <details>
   <summary>University</summary>
 
-  * elaboration for my asq [limitations of science](https://github.com/EagleoutIce/asq-limitations-of-science) (en):\
-  [<img src="https://github.com/EagleoutIce/asq-limitations-of-science/blob/gh-pages/preview-1.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/asq-limitations-of-science/gh-pages/asq-20th-ausarbeitung.pdf)
-
-  &ensp;[![LaTeX-Einführung](https://github-readme-stats.vercel.app/api/pin/?username=EagleoutIce&repo=script-latex-basics&title_color=c9d1d9&icon_color=866b37&text_color=9f9f9f&bg_color=0d1117)](https://github.com/EagleoutIce/script-latex-basics)
+  [asq elaboration](https://github.com/EagleoutIce/asq-limitations-of-science) (en)  | [latex introduction](https://github.com/EagleoutIce/script-latex-basics) (de)
+  :--------: | :--------: |
+  [<img src="https://github.com/EagleoutIce/asq-limitations-of-science/blob/gh-pages/preview-1.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/asq-limitations-of-science/gh-pages/asq-20th-ausarbeitung.pdf) | [<img src="https://github.com/EagleoutIce/script-latex-basics/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/script-latex-basics/gh-pages/latexbasics.pdf) |
 
   &ensp;[![Uni-Seminar](https://github-readme-stats.vercel.app/api/pin/?username=EagleoutIce&repo=eidi-weihnachttsblatt-19_20&title_color=c9d1d9&icon_color=866b37&text_color=9f9f9f&bg_color=0d1117)](https://github.com/EagleoutIce/eidi-weihnachttsblatt-19_20)
 </details>
