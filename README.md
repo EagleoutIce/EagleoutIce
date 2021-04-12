@@ -25,10 +25,8 @@ LaTeX is amazing.
 * <details>
   <summary>University</summary>
 
-  [asq elaboration](https://github.com/EagleoutIce/asq-limitations-of-science) (en)  | [latex introduction](https://github.com/EagleoutIce/script-latex-basics) (de)
-  :--------: | :--------: |
-  [<img src="https://github.com/EagleoutIce/asq-limitations-of-science/blob/gh-pages/preview-1.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/asq-limitations-of-science/gh-pages/asq-20th-ausarbeitung.pdf) | [<img src="https://github.com/EagleoutIce/script-latex-basics/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/script-latex-basics/gh-pages/latexbasics.pdf) |
-
-  &ensp;[![Uni-Seminar](https://github-readme-stats.vercel.app/api/pin/?username=EagleoutIce&repo=eidi-weihnachttsblatt-19_20&title_color=c9d1d9&icon_color=866b37&text_color=9f9f9f&bg_color=0d1117)](https://github.com/EagleoutIce/eidi-weihnachttsblatt-19_20)
+  [asq elaboration](https://github.com/EagleoutIce/asq-limitations-of-science) (en)  | [latex introduction](https://github.com/EagleoutIce/script-latex-basics) (de) | [eidi christmas sheet 2019](https://github.com/EagleoutIce/eidi-weihnachttsblatt-19_20) (de)
+  :--------: | :--------: |  :--------: |
+  [<img src="https://github.com/EagleoutIce/asq-limitations-of-science/blob/gh-pages/preview-1.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/asq-limitations-of-science/gh-pages/asq-20th-ausarbeitung.pdf) | [<img src="https://github.com/EagleoutIce/script-latex-basics/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/script-latex-basics/gh-pages/latexbasics.pdf) | [<img src="https://github.com/EagleoutIce/eidi-weihnachttsblatt-19_20/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/eidi-weihnachttsblatt-19_20/gh-pages/weihnachtsblatt-lsg.pdf) |
 </details>
 </details>
