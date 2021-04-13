@@ -20,13 +20,11 @@ LaTeX is amazing.
 
   [skywrath rulebook](https://github.com/EagleoutIce/pnp-skywrath-rules) (wip, de) | [TikZ image collection](https://github.com/EagleoutIce/image-collection) (en) |
   :--------: | :--------: |
-  [<img src="https://github.com/EagleoutIce/pnp-skywrath-rules/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/pnp-skywrath-rules/gh-pages/skywrath-regelwerk.pdf) | [<img src="https://github.com/EagleoutIce/image-collection/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/image-collection/gh-pages/the-collection.pdf) |
-  </details>
+  [<img src="https://github.com/EagleoutIce/pnp-skywrath-rules/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/pnp-skywrath-rules/gh-pages/skywrath-regelwerk.pdf) | [<img src="https://github.com/EagleoutIce/image-collection/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/image-collection/gh-pages/the-collection.pdf) |</details>
 * <details>
   <summary>University</summary>
 
   [asq elaboration](https://github.com/EagleoutIce/asq-limitations-of-science) (en)  | [latex introduction](https://github.com/EagleoutIce/script-latex-basics) (de) | [eidi christmas sheet 2019](https://github.com/EagleoutIce/eidi-weihnachttsblatt-19_20) (de)
   :--------: | :--------: |  :--------: |
-  [<img src="https://github.com/EagleoutIce/asq-limitations-of-science/blob/gh-pages/preview-1.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/asq-limitations-of-science/gh-pages/asq-20th-ausarbeitung.pdf) | [<img src="https://github.com/EagleoutIce/script-latex-basics/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/script-latex-basics/gh-pages/latexbasics.pdf) | [<img src="https://github.com/EagleoutIce/eidi-weihnachttsblatt-19_20/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/eidi-weihnachttsblatt-19_20/gh-pages/weihnachtsblatt-lsg.pdf) |
-</details>
+  [<img src="https://github.com/EagleoutIce/asq-limitations-of-science/blob/gh-pages/preview-1.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/asq-limitations-of-science/gh-pages/asq-20th-ausarbeitung.pdf) | [<img src="https://github.com/EagleoutIce/script-latex-basics/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/script-latex-basics/gh-pages/latexbasics.pdf) | [<img src="https://github.com/EagleoutIce/eidi-weihnachttsblatt-19_20/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/eidi-weihnachttsblatt-19_20/gh-pages/weihnachtsblatt-lsg.pdf) | </details>
 </details>
