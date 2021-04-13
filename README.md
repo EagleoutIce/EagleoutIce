@@ -16,11 +16,11 @@ LaTeX is amazing.
   <summary>Public Documents</summary>
 
 * <details>
-  <summary>Pen and Paper</summary>
+  <summary>General</summary>
 
-  [skywrath rulebook](https://github.com/EagleoutIce/pnp-skywrath-rules) (wip, de) | |
+  [skywrath rulebook](https://github.com/EagleoutIce/pnp-skywrath-rules) (wip, de) | [TikZ image collection](https://github.com/EagleoutIce/image-collection) (en) |
   :--------: | :--------: |
-  [<img src="https://github.com/EagleoutIce/pnp-skywrath-rules/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/pnp-skywrath-rules/gh-pages/skywrath-regelwerk.pdf) | |
+  [<img src="https://github.com/EagleoutIce/pnp-skywrath-rules/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/pnp-skywrath-rules/gh-pages/skywrath-regelwerk.pdf) | [<img src="https://github.com/EagleoutIce/image-collection/blob/gh-pages/preview-01.png?raw=true" width="227"/>](https://media.githubusercontent.com/media/EagleoutIce/image-collection/gh-pages/the-collection.pdf) |
   </details>
 * <details>
   <summary>University</summary>
