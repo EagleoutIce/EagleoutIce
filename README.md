@@ -11,6 +11,8 @@ LaTeX is amazing.
 [<img src="https://github.com/EagleoutIce/slides-latex-basics/blob/gh-pages/preview-01.png?raw=true" width="320"/>](https://media.githubusercontent.com/media/EagleoutIce/slides-latex-basics/gh-pages/latex_folien.pdf) [<img src="https://github.com/EagleoutIce/slides-latex-basics/blob/gh-pages/preview_2-01.png?raw=true" width="320"/>](https://media.githubusercontent.com/media/EagleoutIce/slides-latex-basics/gh-pages/latex_2_folien.pdf)
 * slides on my [eidi rep](https://github.com/EagleoutIce/eidi-pseudo-rep20) (de):\
 [<img src="https://github.com/EagleoutIce/eidi-pseudo-rep20/blob/gh-pages/preview-001.png?raw=true" width="320"/>](https://media.githubusercontent.com/media/EagleoutIce/eidi-pseudo-rep20/gh-pages/slides-eidi-rep.pdf)
+* a small episode on [recursion](https://github.com/EagleoutIce/Episode-Recursion) (de):\
+[<img src="https://github.com/EagleoutIce/Episode-Recursion/blob/gh-pages/preview-01.png?raw=true" width="320"/>](https://media.githubusercontent.com/media/EagleoutIce/Episode-Recursion/gh-pages/noanim_rekursion.pdf)
 </details>
 <details>
   <summary>Public Documents</summary>
