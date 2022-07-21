@@ -5,8 +5,8 @@ LaTeX is amazing.
 <details>
   <summary>Public Presentations</summary>
 
-* slides on my seminar presentation [trusting trust](https://github.com/EagleoutIce/slides-rtds-trusting-trust) (en):\
-[<img src="https://github.com/EagleoutIce/slides-rtds-trusting-trust/blob/gh-pages/preview-1.png?raw=true" width="400"/>](https://media.githubusercontent.com/media/EagleoutIce/slides-rtds-trusting-trust/gh-pages/noanim-noannot-atvs-presentation.pdf)
+* slides on my seminar presentations [trusting trust](https://github.com/EagleoutIce/slides-rtds-trusting-trust) and [gnu-parallel](https://github.com/EagleoutIce/ccpdp-lightning-ss22-gnu-parallel) (en):\
+[<img src="https://github.com/EagleoutIce/slides-rtds-trusting-trust/blob/gh-pages/preview-1.png?raw=true" width="400"/>](https://media.githubusercontent.com/media/EagleoutIce/slides-rtds-trusting-trust/gh-pages/noanim-noannot-atvs-presentation.pdf) [<img src="https://github.com/EagleoutIce/ccpdp-lightning-ss22-gnu-parallel/blob/gh-pages/slides/preview-01.png?raw=true" width="400"/>](https://media.githubusercontent.com/media/EagleoutIce/ccpdp-lightning-ss22-gnu-parallel/gh-pages/noanim_ccpdp-gnu-parallel.pdf)
 * slides on my [latex introduction](https://github.com/EagleoutIce/slides-latex-basics) (de):\
 [<img src="https://github.com/EagleoutIce/slides-latex-basics/blob/gh-pages/preview-01.png?raw=true" width="400"/>](https://media.githubusercontent.com/media/EagleoutIce/slides-latex-basics/gh-pages/latex_folien.pdf) [<img src="https://github.com/EagleoutIce/slides-latex-basics/blob/gh-pages/preview_2-01.png?raw=true" width="400"/>](https://media.githubusercontent.com/media/EagleoutIce/slides-latex-basics/gh-pages/latex_2_folien.pdf)
 * slides on my [eidi rep](https://github.com/EagleoutIce/eidi-pseudo-rep20) (de) and [eidi recap](https://github.com/EagleoutIce/christmas-eidi-recap) (de):\
