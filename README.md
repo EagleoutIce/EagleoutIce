@@ -7,6 +7,8 @@ LaTeX is amazing.
 <details>
   <summary>Public Presentations</summary>
 
+* slides for my master's thesis with the [interim presentation](https://github.com/EagleoutIce/ma-slicing-interim) (en):\
+[<img src="https://github.com/EagleoutIce/ma-slicing-interim/blob/gh-pages/preview-01.png?raw=true" width="400"/>](https://media.githubusercontent.com/media/EagleoutIce/ma-slicing-interim/gh-pages/noanim_ma-interim-r-slicing.pdf)
 * slides on my seminar presentations [trusting trust](https://github.com/EagleoutIce/slides-rtds-trusting-trust) and [gnu-parallel](https://github.com/EagleoutIce/ccpdp-lightning-ss22-gnu-parallel) (en):\
 [<img src="https://github.com/EagleoutIce/slides-rtds-trusting-trust/blob/gh-pages/preview-1.png?raw=true" width="400"/>](https://media.githubusercontent.com/media/EagleoutIce/slides-rtds-trusting-trust/gh-pages/noanim-noannot-atvs-presentation.pdf) [<img src="https://github.com/EagleoutIce/ccpdp-lightning-ss22-gnu-parallel/blob/gh-pages/slides/preview-01.png?raw=true" width="400"/>](https://media.githubusercontent.com/media/EagleoutIce/ccpdp-lightning-ss22-gnu-parallel/gh-pages/noanim_ccpdp-gnu-parallel.pdf)
 * slides on my [latex introduction](https://github.com/EagleoutIce/slides-latex-basics) (de):\
