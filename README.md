@@ -3,7 +3,7 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=EagleoutIce&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
 I like penguins and the occasional LaTeX programming.\
-For my current work, it is probably best to check out my master's thesis: [*Constructing a Static Program Slicer for R Programs*](http://dx.doi.org/10.18725/OPARU-50107).
+For my current work, it is probably best to check out my master's thesis: [*Constructing a Static Program Slicer for R Programs*](http://dx.doi.org/10.18725/OPARU-50107) or my [portfolio website](https://eagleoutice.github.io/portfolio/).
 
 <details>
   <summary>Public Presentations</summary>
