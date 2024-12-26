@@ -8,8 +8,8 @@ I like penguins and the occasional LaTeX programming. For my current work, it is
 
 A (short and incomplete) list of my LaTeX packages you may find interesting:
 
-- [tikzpingus](https://github.com/EagleoutIce/tikzpingus) for drawing cute penguins in LaTeX
-- [fancyqr](https://github.com/EagleoutIce/fancyqr) for creating nice QR codes in LaTeX
+- [tikzpingus](https://github.com/EagleoutIce/tikzpingus) for drawing cute penguins
+- [fancyqr](https://github.com/EagleoutIce/fancyqr) for creating nice QR codes
 - [xlistings](https://github.com/EagleoutIce/xlistings) as an opinionated extension of the `listings` package
 - [beamer-themes](https://github.com/EagleoutIce/beamer-themes), a collection of beamer themes I used over the years
 - [uulm-cs-poster](https://github.com/EagleoutIce/uulm-cs-poster), an inofficial poster template for the SP institute at Ulm University
