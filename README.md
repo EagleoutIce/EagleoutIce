@@ -10,9 +10,11 @@ A (short and incomplete) list of my LaTeX packages you may find interesting:
 
 - [tikzpingus](https://github.com/EagleoutIce/tikzpingus) for drawing cute penguins in LaTeX
 - [fancyqr](https://github.com/EagleoutIce/fancyqr) for creating nice QR codes in LaTeX
-- [xlistings](https://github.com/EagleoutIce/xlistings) an opinionated extension of the `listings` package
-- [beamer-themes](https://github.com/EagleoutIce/beamer-themes) a collection of beamer themes I used over the years
-- [latex-lambda-calculus-visualizer](https://github.com/EagleoutIce/latex-lambda-calculus-visualizer): nice and funky visualizations of lambda calculus terms
+- [xlistings](https://github.com/EagleoutIce/xlistings) as an opinionated extension of the `listings` package
+- [beamer-themes](https://github.com/EagleoutIce/beamer-themes), a collection of beamer themes I used over the years
+- [uulm-cs-poster](https://github.com/EagleoutIce/uulm-cs-poster), an inofficial poster template for the SP institute at Ulm University
+- [latex-lambda-calculus-visualizer](https://github.com/EagleoutIce/latex-lambda-calculus-visualizer) for nice and funky visualizations of lambda calculus terms
+- [TeXCHR](https://github.com/EagleoutIce/TeXCHR), [latex-underline](https://github.com/EagleoutIce/latex-underline), [tikzdoggos](https://github.com/EagleoutIce/tikzdoggos), [color-palettes](https://github.com/EagleoutIce/color-palettes), [ltihie-util](https://github.com/EagleoutIce/lithie-util), ...
 
 <details>
   <summary>Public Presentations</summary>
