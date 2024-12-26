@@ -1,11 +1,18 @@
 [![EagleoutIce](https://github-readme-stats-deploy-umber.vercel.app/api?username=EagleoutIce&title_color=c9d1d9&icon_color=866b37&hide_border=true&show_icons=true&text_color=9f9f9f&bg_color=0d1117)](https://github.com/EagleoutIce) [![EagleoutIce](https://github-readme-stats-deploy-umber.vercel.app/api/top-langs/?username=EagleoutIce&hide=css,gherkin&langs_count=11&title_color=c9d1d9&icon_color=79ff97&hide_border=true&text_color=9f9f9f&bg_color=0d1117&layout=compact&card_width=250)](https://github.com/EagleoutIce)
 
-I like penguins and the occasional LaTeX programming.\
-For my current work, it is probably best to check out [flowR](https://github.com/flowr-analysis) a program slicer and analyzer for the R programming language, as well as my master's thesis: [*Constructing a Static Program Slicer for R Programs*](http://dx.doi.org/10.18725/OPARU-50107) or my [portfolio website](https://eagleoutice.github.io/portfolio/).
+I like penguins and the occasional LaTeX programming. For my current work, it is probably best to check out 
 
-A list of my LaTeX packages you may find interesting:
+- [flowR](https://github.com/flowr-analysis) a program slicer and analyzer for the R programming language, as well as
+- my master's thesis: [*Constructing a Static Program Slicer for R Programs*](http://dx.doi.org/10.18725/OPARU-50107), and
+- my [portfolio website](https://eagleoutice.github.io/portfolio/).
 
+A (short and incomplete) list of my LaTeX packages you may find interesting:
 
+- [tikzpingus](https://github.com/EagleoutIce/tikzpingus) for drawing cute penguins in LaTeX
+- [fancyqr](https://github.com/EagleoutIce/fancyqr) for creating nice QR codes in LaTeX
+- [xlistings](https://github.com/EagleoutIce/xlistings) an opinionated extension of the `listings` package
+- [beamer-themes](https://github.com/EagleoutIce/beamer-themes) a collection of beamer themes I used over the years
+- [latex-lambda-calculus-visualizer](https://github.com/EagleoutIce/latex-lambda-calculus-visualizer): nice and funky visualizations of lambda calculus terms
 
 <details>
   <summary>Public Presentations</summary>
